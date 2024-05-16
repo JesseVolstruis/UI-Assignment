@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 064f2e9962de52e41af469eaf73b4d1d, type: 3}
+  m_Name: Sword4
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 4f81c33f909a3b04e88b8daa662a61a5, type: 3}
+  price: 5
+  isStackable: 1
+  sellValue: 3
+  stackSize: 10
